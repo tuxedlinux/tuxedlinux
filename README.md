@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Aaron, but you can call me as **tuxedlinux**.
+
+I know some JavaScript, little about Python, and very little About C and C++.
+
 <!--
 **tuxedlinux/tuxedlinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
